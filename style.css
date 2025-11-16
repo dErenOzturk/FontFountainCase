@@ -1,0 +1,242 @@
+/* Sans-serif */
+@font-face { font-family: 'Roboto'; src: url('./fonts/Roboto/Roboto-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Open_Sans'; src: url('./fonts/Open_Sans/OpenSans-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Lato'; src: url('./fonts/Lato/Lato-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Montserrat'; src: url('./fonts/Montserrat/Montserrat-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Nunito'; src: url('./fonts/Nunito/Nunito-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Barlow'; src: url('./fonts/Barlow/Barlow-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Raleway'; src: url('./fonts/Raleway/Raleway-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Ubuntu'; src: url('./fonts/Ubuntu/Ubuntu-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Work_Sans'; src: url('./fonts/Work_Sans/WorkSans-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Fira_Sans'; src: url('./fonts/Fira_Sans/FiraSans-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Overpass'; src: url('./fonts/Overpass/Overpass-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Questrial'; src: url('./fonts/Questrial/Questrial-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Karla'; src: url('./fonts/Karla/Karla-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Exo_2'; src: url('./fonts/Exo_2/Exo2-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Noto_Sans'; src: url('./fonts/Noto_Sans/NotoSans-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'PT_Sans'; src: url('./fonts/PT_Sans/PTSans-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Maven_Pro'; src: url('./fonts/Maven_Pro/MavenPro-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Chivo'; src: url('./fonts/Chivo/Chivo-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Oxygen'; src: url('./fonts/Oxygen/Oxygen-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Rubik'; src: url('./fonts/Rubik/Rubik-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Noto_Serif_Display'; src: url('./fonts/Noto_Serif_Display/NotoSerifDisplay-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Source_Sans_3'; src: url('./fonts/Source_Sans_3/SourceSans3-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+
+/* Serif */
+@font-face { font-family: 'Lora'; src: url('./fonts/Lora/Lora-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Playfair_Display'; src: url('./fonts/Playfair_Display/PlayfairDisplay-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Crimson_Text'; src: url('./fonts/Crimson_Text/CrimsonText-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'EB_Garamond'; src: url('./fonts/EB_Garamond/EBGaramond-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Cardo'; src: url('./fonts/Cardo/Cardo-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Spectral'; src: url('./fonts/Spectral/Spectral-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Vollkorn'; src: url('./fonts/Vollkorn/Vollkorn-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Tinos'; src: url('./fonts/Tinos/Tinos-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Arvo'; src: url('./fonts/Arvo/Arvo-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Domine'; src: url('./fonts/Domine/Domine-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Alice'; src: url('./fonts/Alice/Alice-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Cormorant_Garamond'; src: url('./fonts/Cormorant_Garamond/CormorantGaramond-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Cormorant_Infant'; src: url('./fonts/Cormorant_Infant/CormorantInfant-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Cormorant_Upright'; src: url('./fonts/Cormorant_Upright/CormorantUpright-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Noto_Serif'; src: url('./fonts/Noto_Serif/NotoSerif-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Slabo_27px'; src: url('./fonts/Slabo_27px/Slabo27px-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'PT_Serif'; src: url('./fonts/PT_Serif/PTSerif-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Bitter'; src: url('./fonts/Bitter/Bitter-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Fauna_One'; src: url('./fonts/Fauna_One/FaunaOne-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Caudex'; src: url('./fonts/Caudex/Caudex-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Bellefair'; src: url('./fonts/Bellefair/Bellefair-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Gentium_Plus'; src: url('./fonts/Gentium_Plus/GentiumPlus-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+
+/* Monospace */
+@font-face { font-family: 'Inconsolata'; src: url('./fonts/Inconsolata/Inconsolata-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Source_Code_Pro'; src: url('./fonts/Source_Code_Pro/SourceCodePro-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Roboto_Mono'; src: url('./fonts/Roboto_Mono/RobotoMono-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Fira_Code'; src: url('./fonts/Fira_Code/FiraCode-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'JetBrains_Mono'; src: url('./fonts/JetBrains_Mono/JetBrainsMono-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'IBM_Plex_Mono'; src: url('./fonts/IBM_Plex_Mono/IBMPlexMono-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Space_Mono'; src: url('./fonts/Space_Mono/SpaceMono-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Overpass_Mono'; src: url('./fonts/Overpass_Mono/OverpassMono-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Anonymous_Pro'; src: url('./fonts/Anonymous_Pro/AnonymousPro-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Courier_Prime'; src: url('./fonts/Courier_Prime/CourierPrime-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  background: radial-gradient(1200px 800px at 20% -10%, #8bc6ec55, transparent),
+              radial-gradient(1000px 700px at 110% 10%, #9599e255, transparent),
+              linear-gradient(135deg, #0f172a 0%, #111827 60%, #0b1022 100%);
+  color: #e5e7eb;
+}
+
+.app-header {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  padding: 24px 24px 8px;
+  box-sizing: border-box;
+}
+
+.app-header .logo {
+  width: min(360px, 35vw);
+  height: auto;
+  object-fit: contain;
+  filter: drop-shadow(0 6px 18px rgba(0,0,0,0.35));
+  border-radius: 12px;
+}
+
+.app-header .title-wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.app-header h1 {
+  margin: 0;
+  font-size: 28px;
+  letter-spacing: 0.5px;
+}
+
+#placeholder-input {
+  width: min(720px, 90vw);
+  padding: 12px 14px;
+  border-radius: 12px;
+  border: 1px solid rgba(255,255,255,0.12);
+  background: rgba(17,24,39,0.55);
+  color: #e5e7eb;
+  outline: none;
+  transition: border-color 180ms ease, box-shadow 180ms ease, background 180ms ease;
+  box-shadow: inset 0 0 0 9999px rgba(255,255,255,0.02);
+}
+
+#placeholder-input::placeholder { color: #94a3b8; }
+#placeholder-input:focus { border-color: #60a5fa; box-shadow: 0 0 0 3px rgba(96,165,250,0.25); background: rgba(17,24,39,0.7); }
+
+.font-search-input {
+  width: 100%;
+  padding: 10px 12px;
+  margin-bottom: 12px;
+  border-radius: 10px;
+  border: 1px solid rgba(255,255,255,0.12);
+  background: rgba(17,24,39,0.55);
+  color: #e5e7eb;
+  outline: none;
+  transition: border-color 180ms ease, box-shadow 180ms ease, background 180ms ease;
+  box-shadow: inset 0 0 0 9999px rgba(255,255,255,0.02);
+  font-size: 14px;
+  box-sizing: border-box;
+}
+
+.font-search-input::placeholder { color: #94a3b8; }
+.font-search-input:focus { 
+  border-color: #60a5fa; 
+  box-shadow: 0 0 0 3px rgba(96,165,250,0.25); 
+  background: rgba(17,24,39,0.7); 
+}
+
+.layout {
+  width: 100%;
+  box-sizing: border-box;
+  display: grid;
+  grid-template-columns: 320px 1fr 340px;
+  gap: 20px;
+  padding: 20px 24px 40px;
+}
+
+.card {
+  background: linear-gradient(180deg, rgba(255,255,255,0.06), rgba(255,255,255,0.03));
+  border: 1px solid rgba(255,255,255,0.10);
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.35);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  padding: 16px;
+}
+
+.card h2 { margin: 0 0 12px; font-size: 18px; color: #e5e7eb; font-weight: 600; }
+
+.card-header { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 12px; }
+.card-header h2 { margin: 0; }
+
+#clear-history {
+  appearance: none;
+  border: 1px solid rgba(255,255,255,0.15);
+  background: rgba(255,255,255,0.06);
+  color: #e5e7eb;
+  border-radius: 10px;
+  padding: 6px 10px;
+  cursor: pointer;
+  transition: background 160ms ease, border-color 160ms ease, transform 120ms ease;
+}
+#clear-history:hover { background: rgba(239,68,68,0.15); border-color: rgba(239,68,68,0.35); }
+#clear-history:active { transform: translateY(1px); }
+
+#font-list, #history-list {
+  list-style: none;
+  margin: 0;
+  padding: 6px;
+  max-height: 360px;
+  overflow-y: auto;
+}
+
+#font-list li, #history-list li {
+  padding: 8px 10px;
+  cursor: pointer;
+  border-radius: 10px;
+  transition: background 160ms ease, transform 120ms ease;
+}
+
+#font-list li:hover, #history-list li:hover { background: rgba(255,255,255,0.08); transform: translateY(-1px); }
+
+#font-list .font-item.selected {
+  background: linear-gradient(180deg, rgba(96,165,250,0.20), rgba(96,165,250,0.10));
+  border: 1px solid rgba(96,165,250,0.35);
+}
+
+#font-list .font-group-heading {
+  cursor: default;
+  padding: 10px 6px;
+  margin: 6px 2px 2px;
+  color: #9ca3af;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+#font-list .font-group-heading:hover { background: transparent; transform: none; }
+
+.preview-card { display: flex; flex-direction: column; height: fit-content; overflow: hidden; }
+
+#preview-area p {
+  font-size: clamp(28px, 6vw, 64px);
+  border: 1px dashed rgba(255,255,255,0.12);
+  padding: 24px;
+  min-height: 120px;
+  user-select: none;
+  border-radius: 14px;
+  background: rgba(255,255,255,0.02);
+  max-width: 100%;
+  width: 100%;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+  white-space: pre-wrap;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+#preview-area p .glyph {
+  display: inline-block;
+  transition: color 120ms ease, background 120ms ease, transform 100ms ease;
+  border-radius: 6px;
+}
+
+#preview-area p .glyph:hover {
+  color: #60a5fa;
+  background: rgba(96,165,250,0.12);
+}
+
+@media (max-width: 1100px) {
+  .layout { grid-template-columns: 1fr; }
+}

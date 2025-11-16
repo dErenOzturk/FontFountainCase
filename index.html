@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Font Fountain</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="app-header">
+    <img class="logo" src="logo.png" alt="Font Fountain logo">
+    <input type="text" id="placeholder-input" placeholder="Type to change preview...">
+  </header>
+
+  <main class="layout">
+    <section id="font-browser" class="card">
+      <h2>Font Browser</h2>
+      <input type="text" id="font-search" placeholder="Search fonts..." class="font-search-input">
+      <ul id="font-list">
+        <!-- Font list -->
+      </ul>
+    </section>
+
+    <section id="preview-area" class="card preview-card">
+      <h2>Preview</h2>
+      <p id="preview-text">Fırtınalı gecede çılgın köpek, öyküsünü hızlıca yazıp şehri izledi.
+      </p>
+    </section>
+
+    <section id="history" class="card">
+      <div class="card-header">
+        <h2>Font History</h2>
+        <button id="clear-history" type="button" title="Clear history">Clear</button>
+      </div>
+      <ul id="history-list">
+        <!-- Font History -->
+      </ul>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
